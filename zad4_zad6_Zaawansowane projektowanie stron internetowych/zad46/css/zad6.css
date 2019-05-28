@@ -1,0 +1,8 @@
+.kolumny {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.nieMaTakiegoWyswietlania{
+    display: none;
+}
